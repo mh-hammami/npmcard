@@ -1,6 +1,6 @@
 {
   "name": "mhammami",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "A personal card for Marouene Hammami (@marouandev)",
   "main": "/bin/card.js",
   "bin": {
