@@ -8,9 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com:mh-hammami/npmcard.git"
   },
-  "homepage": "https://bnb.im",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
